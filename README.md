@@ -1,1 +1,1 @@
-# beach-world-cup-quals
+# Beach World Cup Qualifications

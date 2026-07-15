@@ -4,6 +4,8 @@
 
 **IMPORTANT**: Make sure the _.exe_ and _settings.json_ files are in the same folder.
 
+
+
 _Settings_
 
 **simSpeed** - How fast the sim will play. Set to 0 to be instant.

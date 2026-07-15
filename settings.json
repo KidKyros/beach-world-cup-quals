@@ -14,10 +14,10 @@
     "maxNerfPercent": 18,
 
 
-    "europe": 4,
-    "africa": 2,
+    "europe": 3,
+    "africa": 3,
     "asia": 3,
-    "north america": 3,
-    "oceania": 1,
+    "north america": 2,
+    "oceania": 2,
     "south america": 3
 }

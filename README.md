@@ -1,1 +1,1 @@
-# Beach World Cup Qualifications
+# Beach World Cup Qualifier Sim

@@ -4,9 +4,9 @@
 
 **IMPORTANT**: Make sure the _.exe_ and _settings.json_ files are in the same folder.
 
-_ _
+======================
 
-_Settings_
+## _Settings_
 
 **simSpeed** - How fast the sim will play. Set to 0 to be instant.
 **matchMultiplier** - How much of an advantage does the nation with higher points get over the lower nation.

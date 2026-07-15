@@ -1,0 +1,23 @@
+{
+    "simSpeed": 0.12,
+    "matchMultiplier": 2,
+
+    "displayChanges": true,
+
+    "topTeamPlacement": 15,
+    "topTeamCanBoost": false,
+
+    "maxBoosts": 12,
+    "maxBoostPercent": 23,
+
+    "maxNerfs": 5,
+    "maxNerfPercent": 18,
+
+
+    "europe": 4,
+    "africa": 2,
+    "asia": 3,
+    "north america": 3,
+    "oceania": 1,
+    "south america": 3
+}
